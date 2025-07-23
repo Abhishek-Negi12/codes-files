@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.intro{
+    width: 100vw;
+    height: 600px;
+    background-image: url(yoga-2.png) ;
+    background-size: cover;
+    background-position:  center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rishi{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.about{
+    height: 600px;
+    background-color: rgb(170, 118, 88); 
+    justify-content: center;
+    align-items: center;
+}  
+
+
+
+.heading{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 48px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    word-spacing: 10px;
+    font-weight:bolder;
+    size: 50px;
+    text-transform: uppercase;
+
+}
+
+
+.aboutpara{
+    padding: 30px 60px 50px 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 10px;
+    font-size: larger;
+    font-weight: 10px;
+    gap: 25px;
+}
+
+.aboutpara img{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 30vw;
+}
+
+.attraction{
+    background-color: rgb(158, 101, 101);
+    
+}
+
+
+.h1attrac h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    
+}
+
+
+
+.attracimg{
+    padding: 50px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr ;
+    gap: 50px;
+    place-content: center;
+    border: 2px sold black;
+    border-radius: 10px;
+}
+
+.attracimg img{
+    background-color: rgba(158, 101, 101, 0.323);
+    place-content: center;
+    border-radius: 10px;
+}
+
+
+.about1{
+    height: 600px;
+    background-color: rgb(170, 97, 60); 
+    justify-content: center;
+    align-items: center;
+}  
+
+
+
+.heading1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    word-spacing: 10px;
+    font-weight:bolder;
+    size: 50px;
+    text-transform: uppercase;
+}
+
+
+.aboutpara1{
+    padding: 30px 60px 50px 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 10px;
+    font-size: larger;
+    font-weight: 10px;
+    gap: 25px;
+}
+
+.aboutpara1 img{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 25vw;
+}
+
+.about2{
+    height: 600px;
+    background-color: rgb(122, 77, 52); 
+    justify-content: center;
+    align-items: center;
+}  
+
+
+
+.heading2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    word-spacing: 10px;
+    font-weight:bolder;
+    size: 50px;
+    text-transform: uppercase;
+}
+
+
+.aboutpara2{
+    padding: 30px 60px 50px 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 10px;
+    font-size: larger;
+    font-weight: 10px;
+    gap: 25px;
+}
+
+.aboutpara2 img{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 25vw;
+}
+
+.about3{
+    height: 600px;
+    background-color: rgba(123, 80, 57, 0.852); 
+    justify-content: center;
+    align-items: center;
+}  
+
+
+
+.heading3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    word-spacing: 10px;
+    font-weight:bolder;
+    size: 50px;
+    text-transform: uppercase;
+}
+
+
+.aboutpara3{
+    padding: 30px 60px 50px 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-spacing: 10px;
+    font-size: larger;
+    font-weight: 10px;
+    gap: 25px;
+}
+
+.aboutpara3 img{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 25vw;
+}
+
+
+
+.last{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(53, 96, 129);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thank{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+
+
